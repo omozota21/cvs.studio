@@ -2,7 +2,7 @@
 
 ## cv's: diff, cvs, mercurial ... git.
 
-...
+podriamos estudiar estos sitemas vintage... 
 
 ## `diff` command:
 
