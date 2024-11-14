@@ -16,12 +16,13 @@ https://medium.com/@redswitches/how-to-use-diff-color-7-practical-examples-46de4
 [holamundo git](https://docs.github.com/es/get-started/start-your-journey/hello-world)
 
 En este artículo
-Introducción
-###  1: new repo
-###  2: new branch
-###  3: make and commit changes
-###  4: open pull request    # apertura de una solicitud de cambios
-###  5: merege pull request  # fusión de la solicitud de cambios
-###  Conclusión
+
+- [ ] Intro
+- [ ] 1: new repo
+- [ ] 2: new branch
+- [ ] 3: make and commit changes
+- [ ] 4: open pull request    # apertura de una solicitud de cambios
+- [ ] 5: merege pull request  # fusión de la solicitud de cambios
+- [ ] Conclusión
 
 Pasos siguientes
